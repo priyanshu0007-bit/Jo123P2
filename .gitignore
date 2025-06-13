@@ -1,0 +1,4 @@
+// this is used to ignore files which are too big in size from our github proifle for example:
+
+node_modules
+// here the file got ignored

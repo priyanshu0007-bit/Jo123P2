@@ -1,0 +1,23 @@
+{
+  "name": "jo123p2",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "priyanshu": "echo Hello from Priyanshu script",
+    "dev":" nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshu0007/jo123P2.git"
+  },
+  "author": "priyanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshu0007/jo123P2/issues"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
